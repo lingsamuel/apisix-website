@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[7245],{5375:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/apisix-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":8,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
